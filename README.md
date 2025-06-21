@@ -53,7 +53,7 @@ A project by [MC Digital Innovate](https://mcdi.vercel.app)
 
 ## 📸 Preview
 
-*(Add screenshots or demo GIFs here if available)*
+![Screenshot](src/ss.png)
 
 ---
 
